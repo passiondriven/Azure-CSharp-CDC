@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\bin\Debug\netcoreapp2.1\Azure-CSharp-CDC.deps.json
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\bin\Debug\netcoreapp2.1\Azure-CSharp-CDC.runtimeconfig.json
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\bin\Debug\netcoreapp2.1\Azure-CSharp-CDC.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\bin\Debug\netcoreapp2.1\Azure-CSharp-CDC.dll
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\bin\Debug\netcoreapp2.1\Azure-CSharp-CDC.pdb
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.dll
+C:\Users\Peter\source\repos\Azure-CSharp-CDC\Azure-CSharp-CDC\obj\Debug\netcoreapp2.1\Azure-CSharp-CDC.pdb

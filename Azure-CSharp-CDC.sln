@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure-CSharp-CDC", "Azure-CSharp-CDC\Azure-CSharp-CDC.csproj", "{52A8A4E6-C940-43A0-A5C5-680B3EC31496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A8A4E6-C940-43A0-A5C5-680B3EC31496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A8A4E6-C940-43A0-A5C5-680B3EC31496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A8A4E6-C940-43A0-A5C5-680B3EC31496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A8A4E6-C940-43A0-A5C5-680B3EC31496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2431C62B-77AD-4565-BDA7-F3CB0729FA26}
+	EndGlobalSection
+EndGlobal
